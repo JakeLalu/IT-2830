@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial scale=1.0">
+  <title>Assignment 1</title>
+</head>
+<body>
+  <h1>Jake Lalumandier</h1>
+  <h2>Junior, IT</h2>
+  <p1>Hello, I am a Junior here at Mizzou and I am an IT major. I am also a cadet in the Army ROTC program.
+  I am from St. Louis and have lived there my whole life. I originally went to college for baseball my freshman
+  year but transfered to Mizzou last year. Favorite movie I have seen recently was probably the new Top Gun,
+  and I have seen it 3 times so far
+  </p1>
+  <href=<img src="file:///C:/Users/Lalu/Pictures/Profile%20pic.jpg" alt="Image">
+</body>
